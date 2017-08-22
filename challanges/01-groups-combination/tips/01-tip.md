@@ -4,4 +4,4 @@ Note, have a lot of ways to do that, but with this litle information this way is
 
 1. into each group combine it elements into pairs, you can test if the quantity of pairs is right with this: ![Newton](../fixture/newton.svg "Newton Binomial").
 
-2. Sum each pair to now which one show more often.
+2. Sum each pair to now which one happen more often.
