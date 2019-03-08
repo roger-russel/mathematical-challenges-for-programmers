@@ -12,5 +12,6 @@ arr.forEach(elm => {
     result[sortedValue].push(elm) // O(1) Time Complexity
 }) // 0(N) Time Complexity
 
+console.log(result)
 // So, the final Time Complexity is O(N) + O(1) + O(1) + O(1) + O(n log(n)) = O(n log(n))
 // And the Space Complexity is O(N)
