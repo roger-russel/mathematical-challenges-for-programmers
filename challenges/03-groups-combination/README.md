@@ -6,7 +6,7 @@ This challenge is about group combination, a little more simple than [01-groups-
 
 You need to group all strings has the same composition. Eg. "123" and "213"
 
-You also need to do it the more performatic way, avoid answers bigger or equal O(N^2)
+You also need to do it the more performatic way, avoid answers with time complexity bigger or equal O(N^2)
 
 ## Example
 
