@@ -18,11 +18,11 @@ func Run() {
 
 		nAbs := int8(math.Abs(float64(n)))
 
-		if numberList[nAbs] < 0 {
+		if numberList[nAbs-1] < 0 {
 			duplicated = nAbs
 			break
 		} else {
-			numberList[nAbs] *= -1
+			numberList[nAbs-1] *= -1
 		}
 	}
 	fmt.Println(duplicated)
